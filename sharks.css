@@ -1,0 +1,84 @@
+html{
+  background: Aqua;
+  padding-left: 30px;
+  padding-top: 30px;
+}
+img{
+  width: 250px;
+  height: 125px;
+}
+.sh1{
+  position: absolute;
+  left: 530px;
+  top: 25px;
+}
+.sh2{
+  position: absolute;
+  left: 780px;
+  top: 25px;
+}
+.sh3{
+  position: absolute;
+  left: 1030px;
+  top: 25px;
+}
+.sh4{
+  position: absolute;
+  left: 530px;
+  top: 150px;
+}
+.sh5{
+  position: absolute;
+  left: 780px;
+  top: 150px;
+}
+.sh6{
+  position: absolute;
+  left: 1030px;
+  top: 150px;
+}
+.sh7{
+  position: absolute;
+  left: 530px;
+  top: 275px;
+}
+.sh8{
+  position: absolute;
+  left: 780px;
+  top: 275px;
+}
+.sh9{
+  position: absolute;
+  left: 1030px;
+  top: 275px;
+}
+.sh10{
+  position: absolute;
+  left: 530px;
+  top: 400px;
+}
+.sh11{
+  position: absolute;
+  left: 780px;
+  top: 400px;
+}
+.sh12{
+  position: absolute;
+  left: 1030px;
+  top: 400px;
+}
+.sh13{
+  position: absolute;
+  left: 530px;
+  top: 525px;
+}
+.sh14{
+  position: absolute;
+  left: 780px;
+  top: 525px;
+}
+.sh15{
+  position: absolute;
+  left: 1030px;
+  top: 525px;
+}

@@ -1,0 +1,24 @@
+html{
+  background: Aqua;
+}
+input{
+  height: 20px;
+  width: 225px;
+}
+input:focus{
+  border: 1px solid green;
+  background-color: yellow;
+}
+form{
+ position: absolute;
+ left: 20%;
+ top: 20%;
+ font-size: 2em;
+}
+.p{
+  position: absolute;
+  bottom: 5px;
+}
+.submit{
+  display: none;
+}
